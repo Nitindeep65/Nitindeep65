@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | 🌐 AI Enthusiast | 💡 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00BFFF&vCenter=true&center=true&width=600&lines=Building+Scalable+Web+Apps;AI+%2B+Cloud+Integrations;MERN+%7C+Next.js+%7C+Python;Clean+Code+%7C+Modern+UI+%7C+Agile" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00BFFF&vCenter=true&center=true&width=600&lines=Building+Scalable+Web+Apps;AI+%2B+Cloud+Integrations;Full stack Developer+%7C+Next.js+%7C+Python;Clean+Code+%7C+Modern+UI+%7C+Agile" />
 </p>
 
 ---
