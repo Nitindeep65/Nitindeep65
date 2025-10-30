@@ -262,6 +262,5 @@
   ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
   **⭐️ From [Nitindeep Singh](https://github.com/Nitindeep65) | Built with 💙 and lots of ☕**
-  
-  ![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)
+
 </div>
