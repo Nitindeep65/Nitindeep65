@@ -131,57 +131,6 @@ jsconst nitindeep = {
 </table>
 <br/>
 <!-- ====================================================== -->
-<!-- FEATURED PROJECTS -->
-<!-- ====================================================== -->
-<h3 align="center">🛠️ Featured Projects</h3>
-<p align="center"><sub>Swap in your real repos — title, pitch, stack tags, and links</sub></p>
-<table>
-<tr>
-<td width="50%" valign="top">
-🔹 Project One
-
-One-line pitch explaining the problem it solves and why it's interesting.
-
-React Node.js MongoDB OpenAI
-
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00E5FF?style=flat-square"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-0F2027?style=flat-square&logo=github&logoColor=00E5FF"/></a>
-
-</td>
-<td width="50%" valign="top">
-🔹 Project Two
-
-One-line pitch explaining the problem it solves and why it's interesting.
-
-Next.js TypeScript PostgreSQL Prisma
-
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00E5FF?style=flat-square"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-0F2027?style=flat-square&logo=github&logoColor=00E5FF"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-🔹 Project Three
-
-One-line pitch explaining the problem it solves and why it's interesting.
-
-Express JWT REST API Docker
-
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00E5FF?style=flat-square"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-0F2027?style=flat-square&logo=github&logoColor=00E5FF"/></a>
-
-</td>
-<td width="50%" valign="top">
-🔹 Project Four
-
-One-line pitch explaining the problem it solves and why it's interesting.
-
-React Tailwind Composio Automation
-
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00E5FF?style=flat-square"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-0F2027?style=flat-square&logo=github&logoColor=00E5FF"/></a>
-
 </td>
 </tr>
 </table>
